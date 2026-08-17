@@ -335,7 +335,23 @@ Completed a 15-day internship focused on front-end development, teamwork, proble
 <a href="https://www.linkedin.com/in/dharani1208/">
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+🌐 Explore My Portfolio
 
+<a href="https://vimalraj1208.github.io/vimalraj_protfolio/"> <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-FF1493?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/> </a>
+
+<br><br>
+
+Let's Connect
+
+<a href="https://www.linkedin.com/in/vimalraj0406/"> <img src="https://img.shields.io/badge/LINKEDIN-FF1493?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/> </a>
+
+<a href="https://github.com/Vimalraj1208"> <img src="https://img.shields.io/badge/GITHUB-FF1493?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
+
+<a href="https://vimalraj1208.github.io/vimalraj_protfolio/"> <img src="https://img.shields.io/badge/PORTFOLIO-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/> </a>
+
+<br><br>
+
+<sub>© 202
 <br><br>
 
 <sub>© 2026 Dharani • Built with curiosity, data & continuous learning</sub>
