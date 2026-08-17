@@ -1,6 +1,6 @@
 <div align="center">
-
-# 💜 DHARANI S
+  
+#  DHARANI S  💜
 
 ### `DATA ANALYST` · `PYTHON` · `SQL` · `POWER BI` · `EXCEL`
 
