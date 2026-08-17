@@ -1,31 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0614,45:24083D,75:6D28D9,100:A855F7&height=240&section=header&text=DHARANI&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20CSE%20STUDENT&descAlignY=60&descSize=18&descColor=E9D5FF"/>
+<!-- ========================= HERO ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010D,35:17052D,65:581C87,100:A855F7&height=250&section=header&text=DHARANI&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20CSE%20STUDENT&descAlignY=61&descSize=19&descColor=E9D5FF"/>
 
 <br>
 
-### `DATA • ANALYTICS • INSIGHTS`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Interactive+Power+BI+Dashboards+%F0%9F%92%9C;Analyzing+Business+Data+with+SQL+%F0%9F%97%84%EF%B8%8F;Cleaning+%26+Exploring+Data+with+Python+%F0%9F%90%8D;Learning.+Building.+Analyzing.+Growing.+%E2%9C%A8"/>
 
-**Turning raw data into meaningful business insights.**
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/DATA_ANALYST-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER_BI-A855F7?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-9333EA?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXCEL-8B5CF6?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
 
 <a href="https://github.com/Dharanisrinivasan2005">
-<img src="https://img.shields.io/badge/GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-181024?style=for-the-badge&logo=github&logoColor=C084FC"/>
 </a>
+
 <a href="https://www.linkedin.com/in/dharani1208/">
-<img src="https://img.shields.io/badge/LINKEDIN-9333EA?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-181024?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
 </a>
+
 <a href="https://www.instagram.com/dhaaru_12">
-<img src="https://img.shields.io/badge/INSTAGRAM-7E22CE?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-181024?style=for-the-badge&logo=instagram&logoColor=C084FC"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Excel-8B5CF6?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-9333EA?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-A855F7?style=flat-square&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Dharanisrinivasan2005&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
@@ -33,7 +40,9 @@
 
 <div align="center">
 
-## 💜 `ABOUT ME`
+## 💜 `WHO AM I?`
+
+### **Aspiring Data Analyst | Final-Year CSE Student**
 
 </div>
 
@@ -41,59 +50,20 @@
 <tr>
 <td>
 
-### 👋 Hi, I'm Dharani
+I’m **Dharani**, a final-year **Computer Science & Engineering student** passionate about **Data Analytics, Business Intelligence and Data Visualization**.
 
-I'm a **final-year Computer Science & Engineering student** and aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+I enjoy taking raw and messy datasets, transforming them into structured information, discovering patterns, and presenting the results through meaningful dashboards and reports.
 
-I have a strong foundation in:
+### My core analytics stack
 
-`Microsoft Excel` · `SQL` · `Power BI` · `Python`
+`Excel` • `SQL` • `Power BI` • `Python`
 
-I enjoy working with real-world datasets, performing **data cleaning, exploratory analysis, visualization, dashboard development and KPI reporting**.
+### What I enjoy
 
-I'm currently gaining practical experience through my **Data Analyst Internship at Inzovate Technology**, where I work with business data and analytics tools.
+`Data Cleaning` • `EDA` • `Business Analysis` • `Dashboard Development` • `KPI Reporting` • `Data Visualization`
 
-### 🎯 Career Focus
-
-**Data Analytics → Business Intelligence → Data-Driven Decision Making**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 💜 `EDUCATION`
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Bachelor of Engineering
-
-**SSM College of Engineering**
-
-Computer Science & Engineering
-
-`2023 – Present`
-
-**CGPA:** `7.8`
-
-</td>
-
-<td width="50%">
-
-### 🏫 School Education
-
-**Government Higher Secondary School**
-
-`2016 – 2022`
-
-**Percentage:** `64%`
+> **My mindset:**
+> *Don't just show the data. Understand it. Explain it. Turn it into a decision.*
 
 </td>
 </tr>
@@ -103,7 +73,7 @@ Computer Science & Engineering
 
 <div align="center">
 
-## 💜 `TECHNICAL SKILLS`
+## 🟣 `ANALYTICS TOOLKIT`
 
 </div>
 
@@ -112,69 +82,106 @@ Computer Science & Engineering
 
 <td align="center" width="25%">
 
-### 🐍 PROGRAMMING
+### 🐍 PYTHON
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br><br>
 
 `Python`
-
-`SQL`
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊 ANALYTICS
-
-`Excel`
-
-`Power BI`
-
-`Data Cleaning`
-
-`EDA`
-
-</td>
-
-<td align="center" width="25%">
-
-### 🗄️ DATABASE
-
-`MySQL`
-
-`SQL Queries`
-
+`Pandas`
 `Data Analysis`
 
 </td>
 
 <td align="center" width="25%">
 
-### 🛠️ TOOLS
+### 🗄️ SQL
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+
+<br><br>
+
+`MySQL`
+`Joins`
+`Subqueries`
+`Window Functions`
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 BI
+
+<img src="https://img.shields.io/badge/Power%20BI-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white"/>
+
+<br><br>
 
 `Power Query`
-
 `DAX`
-
 `Data Modeling`
+`KPI's`
 
-`Git & GitHub`
+</td>
+
+<td align="center" width="25%">
+
+### 📑 EXCEL
+
+<img src="https://img.shields.io/badge/Excel-A855F7?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
+
+`Pivot Tables`
+`Pivot Charts`
+`Slicers`
+`Data Cleaning`
 
 </td>
 
 </tr>
 </table>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github&theme=dark"/>
+## ⚡ `DATA ANALYTICS WORKFLOW`
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-8B5CF6?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-A855F7?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-7C3AED?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-9333EA?style=for-the-badge&logo=powerbi&logoColor=white"/>
+```text
+        ┌────────────────────┐
+        │      RAW DATA      │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │   DATA CLEANING    │
+        │ Power Query / SQL  │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │        EDA         │
+        │ Patterns & Trends  │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │      ANALYSIS      │
+        │ SQL / Python / BI  │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │   VISUALIZATION    │
+        │ Dashboards / KPIs  │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │     INSIGHTS       │
+        │ Business Findings  │
+        └─────────┬──────────┘
+                  ↓
+        ┌────────────────────┐
+        │    DECISIONS       │
+        └────────────────────┘
+```
 
 </div>
 
@@ -182,7 +189,9 @@ Computer Science & Engineering
 
 <div align="center">
 
-## 💜 `FEATURED PROJECTS`
+## 🚀 `FEATURED PROJECTS`
+
+### **Real Data. Real Analysis. Real Insights.**
 
 </div>
 
@@ -191,40 +200,56 @@ Computer Science & Engineering
 
 <td width="50%">
 
-### 🏍️ Used Bike Sales Analysis
+### 👟 Adidas Sales Analytics
 
-**Microsoft Excel Dashboard**
+**Power BI Dashboard**
 
-Analyzed used bike sales data to identify pricing trends, brand performance and customer preferences.
+Analyzed Adidas sales performance across regions, states, cities, retailers, products and sales methods.
 
-**Highlights**
+**Key Work**
 
-`Data Cleaning`
-`Pivot Tables`
-`Pivot Charts`
-`KPI Cards`
-`Slicers`
+* Data transformation using Power Query
+* DAX measures
+* KPI cards
+* Sales performance analysis
+* Regional & retailer analysis
+* Interactive visualizations
 
-<a href="https://github.com/Dharanisrinivasan2005/used-bike-sales-analysis-excel">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+`Power BI` `Power Query` `DAX` `Data Modeling`
+
+<br>
+
+<a href="https://github.com/Dharanisrinivasan2005/adidas-sales-analysis-powerbi">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 👟 Adidas Sales Analysis
+### 🎬 Netflix Content Analytics
 
 **Power BI Dashboard**
 
-Interactive dashboard analyzing Adidas sales performance across regions, states, cities, retailers, products and sales methods.
+Analyzed **8,800+ Netflix titles** to understand content distribution and viewing trends.
 
-**Stack**
+**Key Work**
 
-`Power BI` `Power Query` `DAX` `Data Modeling`
+* Data cleaning
+* Missing-value handling
+* Derived columns
+* Movies vs TV Shows
+* Genre analysis
+* Country analysis
+* Ratings & release trends
+* Dynamic DAX reporting
 
-<a href="https://github.com/Dharanisrinivasan2005/adidas-sales-analysis-powerbi">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+`Power BI` `Power Query` `DAX` `Excel`
+
+<br>
+
+<a href="https://github.com/Dharanisrinivasan2005/netflix-content-analysis-dashboard">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -235,18 +260,29 @@ Interactive dashboard analyzing Adidas sales performance across regions, states,
 
 <td width="50%">
 
-### 🎬 Netflix Content Analysis
+### 🏍️ Used Bike Sales Analytics
 
-**Power BI Dashboard**
+**Microsoft Excel Dashboard**
 
-Analyzed a dataset containing **8,800+ Netflix titles** to understand content distribution, genres, countries, ratings and release trends.
+Built an interactive dashboard to analyze used-bike sales performance.
 
-**Stack**
+**Key Work**
 
-`Power BI` `Power Query` `DAX` `Excel`
+* Data cleaning
+* Price categorization
+* Age grouping
+* KMS categorization
+* Pivot Tables
+* Pivot Charts
+* KPI cards
+* Slicers
 
-<a href="https://github.com/Dharanisrinivasan2005/netflix-content-analysis-dashboard">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+`Excel` `Pivot Tables` `Pivot Charts` `Slicers`
+
+<br>
+
+<a href="https://github.com/Dharanisrinivasan2005/used-bike-sales-analysis-excel">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -257,14 +293,24 @@ Analyzed a dataset containing **8,800+ Netflix titles** to understand content di
 
 **MySQL Data Analysis**
 
-Analyzed Google Play Store reviews of **Google Pay, PhonePe and Paytm** to understand ratings, review trends, engagement and app performance.
+Analyzed Google Play Store reviews of **Google Pay, PhonePe and Paytm**.
 
-**Stack**
+**Key Work**
+
+* Data cleaning using Excel
+* SQL-based analysis
+* Customer ratings
+* Review trends
+* User engagement
+* Developer responses
+* Application performance
 
 `MySQL` `Excel` `SQL` `Window Functions`
 
+<br>
+
 <a href="https://github.com/Dharanisrinivasan2005/upi-payment-apps-review-analysis">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -279,36 +325,49 @@ Analyzed Google Play Store reviews of **Google Pay, PhonePe and Paytm** to under
 
 **Flask Web Application**
 
-Developed a web-based Digital Notice Board for SSM College of Engineering with department-wise notice management.
+Developed a web-based notice management system for **SSM College of Engineering**.
 
-**Stack**
+**Key Work**
 
-`Python` `Flask` `SQLite` `SQLAlchemy` `HTML` `CSS` `JavaScript`
+* Secure admin authentication
+* CRUD operations
+* File uploads
+* SQLite database
+* SQLAlchemy integration
+* Responsive interface
+
+`Python` `Flask` `SQLite` `SQLAlchemy`
+
+<br>
 
 <a href="https://github.com/Dharanisrinivasan2005/ssm">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🚀 More Analytics Projects
+### 🔎 More Projects
 
-Explore my GitHub repositories for additional:
-
-`Power BI Dashboards`
-
-`Excel Analytics`
-
-`SQL Projects`
-
-`Python Projects`
+I continuously build projects to strengthen my skills in:
 
 <br>
 
+`📊 Power BI`
+
+`📑 Excel`
+
+`🗄️ SQL`
+
+`🐍 Python`
+
+`🌐 Development`
+
+<br><br>
+
 <a href="https://github.com/Dharanisrinivasan2005?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -320,36 +379,313 @@ Explore my GitHub repositories for additional:
 
 <div align="center">
 
-## 💜 `MY DATA WORKFLOW`
+## 💼 `EXPERIENCE`
+
+</div>
+
+<table>
+<tr>
+<td>
+
+### 🟣 Data Analyst Intern — Inzovate Technology
+
+Currently gaining hands-on experience in:
+
+`Microsoft Excel`
+`SQL`
+`Power BI`
+`Data Cleaning`
+`Data Visualization`
+`Business Data Analysis`
+
+Working with real-world datasets and analytics workflows to develop practical business insights.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🟣 Full Stack Development Intern — WSPL Hosting Solution
+
+Completed a **15-day Full Stack Development Internship**.
+
+Gained practical exposure to frontend development, teamwork, problem-solving and software development practices.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎓 `EDUCATION`
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎓 Bachelor of Engineering
+
+**SSM College of Engineering**
+
+Computer Science & Engineering
+
+`2023 – Present`
+
+### CGPA `7.8`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏫 School Education
+
+**Government Higher Secondary School**
+
+`2016 – 2022`
+
+### Percentage `64%`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🏆 `CERTIFICATIONS & ACHIEVEMENTS`
+
+</div>
+
+<table>
+<tr>
+
+<td align="center">
+
+### ☁️ Oracle Cloud
+
+**Oracle Cloud Infrastructure 2025**
+
+Certified Foundations Associate
+
+`2025`
+
+</td>
+
+<td align="center">
+
+### 💡 Innovation
+
+**IP-to-IPO Innovation Competition**
+
+Organized by Anna University
+
+`2025`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📈 `MY ANALYTICS FOCUS`
+
+</div>
 
 ```text
-╭───────────────╮
-│   RAW DATA    │
-╰───────┬───────╯
-        ↓
-╭───────────────╮
-│ DATA CLEANING │
-╰───────┬───────╯
-        ↓
-╭───────────────╮
-│      EDA      │
-╰───────┬───────╯
-        ↓
-╭───────────────╮
-│    ANALYSIS   │
-╰───────┬───────╯
-        ↓
-╭───────────────╮
-│ VISUALIZATION │
-╰───────┬───────╯
-        ↓
-╭───────────────╮
-│    INSIGHTS   │
-╰───────┬───────╯
-        ↓
-╭───────────────╮
-│   DECISIONS   │
-╰───────────────╯
+                    DATA ANALYST
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+     EXCEL              SQL            POWER BI
+        │                │                │
+   Cleaning          Queries          Dashboards
+   Pivot Tables      Joins            DAX
+   Charts            Analysis         KPIs
+        │                │                │
+        └────────────────┼────────────────┘
+                         ↓
+                      PYTHON
+                         │
+                  Data Analysis
+                         ↓
+                    INSIGHTS
+                         ↓
+                 BUSINESS DECISIONS
+```
+
+---
+
+<div align="center">
+
+## 🧠 `CURRENTLY LEARNING`
+
+<table>
+<tr>
+
+<td align="center">
+
+🗄️
+
+### Advanced SQL
+
+</td>
+
+<td align="center">
+
+🐍
+
+### Python Analytics
+
+</td>
+
+<td align="center">
+
+📊
+
+### Advanced Power BI
+
+</td>
+
+<td align="center">
+
+📐
+
+### DAX
+
+</td>
+
+<td align="center">
+
+🤖
+
+### AI Tools
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 `MY ANALYST MINDSET`
+
+### **Ask → Clean → Explore → Analyze → Visualize → Explain → Decide**
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+🔍
+
+**ASK**
+
+<br>
+
+Understand the business problem
+
+</td>
+
+<td align="center">
+
+🧹
+
+**CLEAN**
+
+<br>
+
+Prepare reliable data
+
+</td>
+
+<td align="center">
+
+📊
+
+**ANALYZE**
+
+<br>
+
+Find patterns & trends
+
+</td>
+
+<td align="center">
+
+💡
+
+**INSIGHT**
+
+<br>
+
+Turn findings into decisions
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 `GITHUB ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dharanisrinivasan2005&show_icons=true&hide_border=true&bg_color=0D0718&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF&ring_color=9333EA&include_all_commits=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanisrinivasan2005&layout=compact&hide_border=true&bg_color=0D0718&title_color=C084FC&text_color=E9D5FF"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Dharanisrinivasan2005&theme=transparent&hide_border=true&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🟣 `2026 GOAL`
+
+### **Become a job-ready Data Analyst.**
+
+<br>
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+ANALYZE
+  ↓
+CREATE DASHBOARDS
+  ↓
+SOLVE BUSINESS PROBLEMS
+  ↓
+GET HIRED 🚀
 ```
 
 </div>
@@ -358,142 +694,30 @@ Explore my GitHub repositories for additional:
 
 <div align="center">
 
-## 💜 `INTERNSHIP EXPERIENCE`
+## 💜 `LET'S CONNECT`
 
-</div>
-
-<table>
-<tr>
-<td>
-
-### 💼 Inzovate Technology
-
-**Data Analyst Intern**
-
-Currently gaining hands-on experience in:
-
-`Microsoft Excel` · `SQL` · `Power BI` · `Data Cleaning` · `Data Visualization` · `Business Data Analysis`
-
-Working with real-world datasets to clean, analyze and visualize information for meaningful business insights.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💻 WSPL Hosting Solution
-
-**Full Stack Development Intern**
-
-Completed a **15-day Full Stack Development Internship** from September 2025 to October 2025.
-
-Gained practical experience in frontend development, teamwork, problem-solving and software development practices.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 💜 `CERTIFICATIONS & ACHIEVEMENTS`
-
-</div>
-
-| 🏆 Certification / Achievement                                   | 🏢 Organization | 📅 Year |
-| :--------------------------------------------------------------- | :-------------- | :-----: |
-| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle          |   2025  |
-| IP-to-IPO Innovation Competition                                 | Anna University |   2025  |
-
-The resume confirms the Oracle Cloud Infrastructure certification and participation in the Anna University IP-to-IPO Innovation Competition.
-
----
-
-<div align="center">
-
-## 💜 `CURRENTLY LEARNING`
-
-<table>
-<tr>
-
-<td align="center">
-🐍<br>
-<b>Python Analytics</b>
-</td>
-
-<td align="center">
-🗄️<br>
-<b>Advanced SQL</b>
-</td>
-
-<td align="center">
-📊<br>
-<b>Power BI</b>
-</td>
-
-<td align="center">
-📐<br>
-<b>DAX</b>
-</td>
-
-<td align="center">
-🤖<br>
-<b>AI Tools</b>
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 💜 `WHAT I LOVE TO DO`
-
-`📊 Analyze Data`
-
-`🧹 Clean Datasets`
-
-`🔎 Find Patterns`
-
-`📈 Build Dashboards`
-
-`💡 Generate Insights`
-
-`🚀 Keep Learning`
-
-</div>
-
----
-
-<div align="center">
-
-## 💜 `MY GOAL`
-
-### **Become a skilled Data Analyst who turns complex data into simple decisions.**
+### Open to learning, collaboration, internships & Data Analytics opportunities.
 
 <br>
 
-`LEARN` → `BUILD` → `ANALYZE` → `VISUALIZE` → `INSIGHT` → `GROW`
-
-<br><br>
-
-### Let's Connect
+<a href="https://github.com/Dharanisrinivasan2005">
+<img src="https://img.shields.io/badge/GITHUB-Dharanisrinivasan2005-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/dharani1208/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Dharani-9333EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Dharanisrinivasan2005">
-<img src="https://img.shields.io/badge/VIEW_MY_GITHUB-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.instagram.com/dhaaru_12">
+<img src="https://img.shields.io/badge/INSTAGRAM-dhaaru__12-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <br><br>
 
-<sub>© 2026 Dharani • Built with Data, Curiosity & Consistency 💜</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05010D,35:24083D,70:7C3AED,100:C084FC&height=120&section=footer"/>
+
+### `DATA • INSIGHTS • IMPACT`
+
+<sub>© 2026 Dharani • Built with curiosity, consistency & data 💜</sub>
 
 </div>
