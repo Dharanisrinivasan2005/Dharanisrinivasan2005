@@ -257,6 +257,22 @@ More analytics, dashboard and development projects are available on my GitHub.
 
 <div align="center">
 
+## 💜 GITHUB ANALYTICS
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Dharanisrinivasan2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanisrinivasan2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharanisrinivasan2005&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 💜 CONTRIBUTION GRAPH
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharanisrinivasan2005&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=Dharani's%20Contribution%20Graph"/>
@@ -336,8 +352,6 @@ Completed a 15-day internship focused on front-end development, teamwork, proble
 <img src="https://img.shields.io/badge/LET'S%20CONNECT-A855F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-
-<sub>© 202
 <br><br>
 
 <sub>© 2026 Dharani • Built with curiosity, data & continuous learning</sub>
